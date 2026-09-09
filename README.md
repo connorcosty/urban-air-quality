@@ -37,6 +37,3 @@ Graded a 78% by examiner.
 - European/Easterly winds lift pollutant concentrations to 20µg/m^3 as opposed to the baseline
 - Effects of Wet deposition are significant and PM2.5 mirrors PM10. 
 
-## Author
-
-**Connor Costello** - BSc Data Science, University of Bristol
